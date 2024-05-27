@@ -1,6 +1,6 @@
 ---
 created: 2024-05-27T22:02:32+02:00
-modified: 2024-05-27T22:15:01+02:00
+modified: 2024-05-27T22:15:56+02:00
 ---
 
 # Vokabular
@@ -12,4 +12,4 @@ modified: 2024-05-27T22:15:01+02:00
 - **Die Tasche** (n) - Handbag
 - **Die Pflaume/n** (n) - Plums
 - **Der Pfirsich/e** (n) - Peach
--
+- **Die Traube** (n) - Grape
