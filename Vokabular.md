@@ -1,6 +1,6 @@
 ---
 created: 2024-05-27T22:02:32+02:00
-modified: 2024-05-28T08:10:21+02:00
+modified: 2024-05-31T06:52:33+02:00
 ---
 
 # Vokabular
@@ -21,3 +21,4 @@ modified: 2024-05-28T08:10:21+02:00
 - **Besuchen** (v) - To visit
 - **Lieblingstochter** (n) - Favourite daughter 
 - **Wirklich** (adj) - Real
+- **Der Schalter** (n) - Counter, "Sie spricht mit dem Mann am Schalter"
