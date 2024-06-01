@@ -22,3 +22,6 @@ modified: 2024-05-31T06:52:33+02:00
 - **Lieblingstochter** (n) - Favourite daughter 
 - **Wirklich** (adj) - Real
 - **Der Schalter** (n) - Counter, "Sie spricht mit dem Mann am Schalter"
+- **Die Aussage** (n) - Statement
+- **Die Begrüssung** (n) - 
+- **Die Abscheid** (n) -
