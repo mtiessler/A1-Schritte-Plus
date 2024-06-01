@@ -1,0 +1,50 @@
+**TODO**: artikel und plural
+
+- Bananen
+- Butter
+- Eier
+- Mehl
+- Milch
+- Zucker
+- Palatschinken
+- Schokolade
+- Vergleichen
+- Fleisch 
+- Tee
+- Bier
+- Brot
+- Käse
+- Salz
+- Mineralwasser
+- Reis
+- Zucker
+- Fisch 
+- Daheim
+- Zeichnen
+- doch
+- Semmel
+- Würstel
+- Kuchen
+- Kaffee
+- Kiwi
+- Tomate
+- Apfel
+- Saft
+- Fisolen
+- Germstriezel
+- Sauerrahm
+- Sclagobers
+- Topfen
+- Rindsschnitzel
+- Rindsfaschiertes
+- Marillen
+- Jogurt 
+- Erdäpfel
+- Lauch
+- Spinat
+- Teigtascherl
+- Tafelspitz
+- Deca
+- Dag
+- Gericht daheim
+

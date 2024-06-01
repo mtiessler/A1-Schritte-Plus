@@ -11,5 +11,13 @@
 
 ## Verb: Konjugation
 
+|        | Leben    | Haben | 
+| ----   | ----     | ----    | 
+| ich    | leb**e** | habe**e**    |
+| du     | leb**st**|   ha**st**  |
+| Er/Sie | leb**t** |   ha**t**  | 
+| Wir    | leb**en**|   hab**en**  | 
+| Ihr    | leb**t** |   hab**t**  |
+| Sie    | leb**en**|   hab**en**  |
 
 
