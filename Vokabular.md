@@ -1,8 +1,3 @@
----
-created: 2024-05-27T22:02:32+02:00
-modified: 2024-05-31T06:52:33+02:00
----
-
 # Vokabular
 
 - **Klug** (adj) - Smart
