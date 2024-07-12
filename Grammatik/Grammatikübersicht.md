@@ -33,7 +33,7 @@
 
 ## Konjugation
 
-### Leben 
+### Leben (to live)
 | Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
 |---------------|-------------------|--------------------------|-----------------------------|
 | ich           | lebe              | lebte                    | habe gelebt                 |
@@ -43,7 +43,7 @@
 | ihr           | lebt              | lebtet                   | habt gelebt                 |
 | sie/Sie       | leben             | lebten                   | haben gelebt                |
 
-### Heißen
+### Heißen (to be called)
 | Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
 |---------------|-------------------|--------------------------|-----------------------------|
 | ich           | heiße             | hieß                     | habe geheißen               |
@@ -53,7 +53,7 @@
 | ihr           | heißt             | hießt                    | habt geheißen               |
 | sie/Sie       | heißen            | hießen                   | haben geheißen              |
 
-### Arbeiten
+### Arbeiten (to work)
 
 | Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
 |---------------|-------------------|--------------------------|-----------------------------|
@@ -65,7 +65,7 @@
 | sie/Sie       | arbeiten          | arbeiteten               | haben gearbeitet            |
 
 
-### aufstehen 
+### aufstehen (to get up)
 
 | Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
 |---------------|-------------------|--------------------------|-----------------------------|
@@ -77,7 +77,7 @@
 | sie/Sie       | stehen auf        | standen auf              | sind aufgestanden           |
 
 
-### einkaufen 
+### einkaufen (to shop)
 | Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
 |---------------|-------------------|--------------------------|-----------------------------|
 | ich           | kaufe ein         | kaufte ein               | habe eingekauft             |
@@ -87,7 +87,7 @@
 | ihr           | kauft ein         | kauftet ein              | habt eingekauft             |
 | sie/Sie       | kaufen ein        | kauften ein              | haben eingekauft            |
 
-### aufräumen 
+### aufräumen (to tidy up)   
 | Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
 |---------------|-------------------|--------------------------|-----------------------------|
 | ich           | räume auf         | räumte auf               | habe aufgeräumt             |
