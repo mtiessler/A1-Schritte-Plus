@@ -883,3 +883,152 @@
 - **Wien** (n) - Vienna  
   *Wien ist die Hauptstadt von Österreich.*  
   Translation: Vienna is the capital of Austria.
+
+## 3 - Einkaufen
+
+- **die Banane, -n** (n) - banana  
+  *Ich esse jeden Morgen eine Banane.*  
+  Translation: I eat a banana every morning.
+
+- **die Butter (Sg.)** (n) - butter  
+  *Wir brauchen mehr Butter für das Rezept.*  
+  Translation: We need more butter for the recipe.
+
+- **das Ei, -er** (n) - egg  
+  *Ich möchte zwei Eier zum Frühstück.*  
+  Translation: I would like two eggs for breakfast.
+
+- **das Mehl (Sg.)** (n) - flour  
+  *Für den Kuchen brauchen wir Mehl.*  
+  Translation: We need flour for the cake.
+
+- **die Milch (Sg.)** (n) - milk  
+  *Kannst du bitte Milch mitbringen?*  
+  Translation: Can you please bring some milk?
+
+- **der Zucker (Sg.)** (n) - sugar  
+  *Ich nehme keinen Zucker in meinen Kaffee.*  
+  Translation: I don't take sugar in my coffee.
+
+- **die Palatschinke, -n** (n) - pancake (Austrian German)  
+  *Palatschinken sind eine österreichische Spezialität.*  
+  Translation: Pancakes are an Austrian specialty.
+
+- **die Schokolade, -n** (n) - chocolate  
+  *Ich liebe dunkle Schokolade.*  
+  Translation: I love dark chocolate.
+- **brauchen** (v) - to need  
+  *Ich brauche mehr Milch.*  
+  Translation: I need more milk.
+
+- **kaufen** (v) - to buy  
+  *Ich möchte ein neues Auto kaufen.*  
+  Translation: I want to buy a new car.
+
+- **der Hunger (Sg.)** (n) - hunger  
+  *Ich habe großen Hunger.*  
+  Translation: I am very hungry.
+
+- **der Euro, -s** (n) - euro  
+  *Das Buch kostet 10 Euro.*  
+  Translation: The book costs 10 euros.
+
+- **das Fleisch (Sg.)** (n) - meat  
+  *Ich esse kein Fleisch.*  
+  Translation: I don't eat meat.
+
+- **das Bier, -e** (n) - beer  
+  *Ein kaltes Bier bitte.*  
+  Translation: A cold beer, please.
+
+- **der Käse (Sg.)** (n) - cheese  
+  *Ich mag französischen Käse.*  
+  Translation: I like French cheese.
+
+- **das Salz (Sg.)** (n) - salt  
+  *Das Essen braucht mehr Salz.*  
+  Translation: The food needs more salt.
+
+- **der Tee, -s** (n) - tea  
+  *Ich trinke jeden Abend Tee.*  
+  Translation: I drink tea every evening.
+
+- **das Brot, -e** (n) - bread  
+  *Kannst du bitte Brot kaufen?*  
+  Translation: Can you please buy some bread?
+
+- **der Wein, -e** (n) - wine  
+  *Wir haben eine Flasche Wein geöffnet.*  
+  Translation: We opened a bottle of wine.
+
+- **das Mineralwasser (Sg.)** (n) - mineral water  
+  *Ich trinke gerne Mineralwasser.*  
+  Translation: I like to drink mineral water.
+
+- **der Reis (Sg.)** (n) - rice  
+  *Wir haben Reis zum Abendessen.*  
+  Translation: We are having rice for dinner.
+
+- **der Fisch, -e** (n) - fish  
+  *Frischer Fisch ist lecker.*  
+  Translation: Fresh fish is delicious.
+
+- **der Apfel, ¨-** (n) - apple  
+  *Ein Apfel am Tag hält den Doktor fern.*  
+  Translation: An apple a day keeps the doctor away.
+
+- **die Orange, -n** (n) - orange  
+  *Ich habe eine Orange zum Frühstück gegessen.*  
+  Translation: I ate an orange for breakfast.
+
+- **der Kuchen, -** (n) - cake  
+  *Der Kuchen schmeckt sehr gut.*  
+  Translation: The cake tastes very good.
+
+- **der Kaffee (Sg.)** (n) - coffee  
+  *Ich brauche morgens Kaffee.*  
+  Translation: I need coffee in the morning.
+
+- **der Saft, ¨-e** (n) - juice  
+  *Orangensaft ist mein Lieblingssaft.*  
+  Translation: Orange juice is my favorite juice.
+
+- **die Semmel, -n** (n) - roll (Austrian German)  
+  *Zum Frühstück gibt es Semmeln.*  
+  Translation: There are rolls for breakfast.
+
+- **das Würstel, -** (n) - sausage (Austrian German)  
+  *In Wien isst man gerne Würstel.*  
+  Translation: In Vienna, people like to eat sausages.
+
+- **die Birne, -n** (n) - pear  
+  *Die Birnen sind sehr süß dieses Jahr.*  
+  Translation: The pears are very sweet this year.
+
+- **die Tomate, -n** (n) - tomato  
+  *Ich mag Tomatensalat.*  
+  Translation: I like tomato salad.
+
+- **der Paradeiser, -** (n) - tomato (Austrian German)  
+  *Paradeiser sind in Österreich sehr beliebt.*  
+  Translation: Tomatoes are very popular in Austria.
+
+- **die Kartoffel, -n** (n) - potato  
+  *Wir machen heute Kartoffelsuppe.*  
+  Translation: We are making potato soup today.
+
+- **der Erdapfel, ¨-** (n) - potato (Austrian German)  
+  *Erdäpfel sind ein Grundnahrungsmittel in Österreich.*  
+  Translation: Potatoes are a staple food in Austria.
+
+- **das Joghurt, -s** (n) - yogurt  
+  *Ich esse Joghurt mit Obst.*  
+  Translation: I eat yogurt with fruit.
+
+- **die Zwiebel, -n** (n) - onion  
+  *Zwiebeln geben dem Essen mehr Geschmack.*  
+  Translation: Onions add more flavor to the food.
+
+- **das Regal, -e** (n) - shelf  
+  *Das Buch steht im Regal.*  
+  Translation: The book is on the shelf.
