@@ -219,38 +219,146 @@
   *Nächstes Jahr fahren wir nach Italien.*  
   Translation: Next year we are
 
-- die woche
-- der mittag
-- die fruh
-- der abend
-- der nachmittag
-- der vormittag
-- die nacht
-- das kino 
-- der sport
-- trinken
-- die pizza
-- chatten
-- die offnungszeiten
-- offnen
-- der termin
-- der kindergarten
-- das geschaft
-- die bibliothek
-- geschlossen
-- offnen
-- schliessen
-- die praxis
-- der tag
-- der morgen
-- jed
-- bringen
-- abholen
-- mehr
-- das beispiel
-- zum beispiel
-- wieder
-- der freund
-- fragen
-- antworten
-- total
+- **die Woche, -n** (n) - week  
+  *Diese Woche habe ich viel zu tun.*  
+  Translation: I have a lot to do this week.
+
+- **der Mittag** (n) - noon, midday  
+  *Um Mittag essen wir zu Mittag.*  
+  Translation: We eat lunch at noon.
+
+- **die Früh** (n) - morning (colloquial, short form of "der Morgen")  
+  *Guten Morgen! Wie war deine Früh?*  
+  Translation: Good morning! How was your morning?
+
+- **der Abend, -e** (n) - evening  
+  *Am Abend gehe ich ins Theater.*  
+  Translation: In the evening, I go to the theater.
+
+- **der Nachmittag, -e** (n) - afternoon  
+  *Am Nachmittag trinke ich gerne Kaffee.*  
+  Translation: I like to drink coffee in the afternoon.
+
+- **der Vormittag, -e** (n) - morning (before noon)  
+  *Am Vormittag habe ich einen Arzttermin.*  
+  Translation: I have a doctor's appointment in the morning.
+
+- **die Nacht, ¨-e** (n) - night  
+  *In der Nacht schlafe ich tief.*  
+  Translation: I sleep deeply at night.
+
+- **das Kino, -s** (n) - cinema, movie theater  
+  *Wir gehen heute Abend ins Kino.*  
+  Translation: We are going to the movies tonight.
+
+- **der Sport** (n) - sport, sports  
+  *Ich treibe gerne Sport.*  
+  Translation: I enjoy doing sports.
+
+- **trinken** (v) - to drink  
+  *Möchtest du etwas trinken?*  
+  Translation: Would you like something to drink?
+
+- **die Pizza, -s** (n) - pizza  
+  *Ich liebe Pizza mit viel Käse.*  
+  Translation: I love pizza with lots of cheese.
+
+- **chatten** (v) - to chat (online)  
+  *Ich chatte gerne mit meinen Freunden.*  
+  Translation: I like to chat with my friends.
+
+- **die Öffnungszeiten** (pl) - opening hours  
+  *Die Öffnungszeiten des Geschäfts sind von 9 bis 18 Uhr.*  
+  Translation: The opening hours of the store are from 9 AM to 6 PM.
+
+- **öffnen** (v) - to open  
+  *Kannst du bitte das Fenster öffnen?*  
+  Translation: Can you please open the window?
+
+- **schließen** (v) - to close  
+  *Bitte nicht vergessen, die Tür zu schließen.*  
+  Translation: Please don't forget to close the door.
+
+- **der Termin, -e** (n) - appointment, date  
+  *Ich habe morgen einen wichtigen Termin.*  
+  Translation: I have an important appointment tomorrow.
+
+- **der Kindergarten, ¨-** (n) - kindergarten  
+  *Unser Kind geht in den Kindergarten.*  
+  Translation: Our child goes to kindergarten.
+
+- **das Geschäft, -e** (n) - store, shop  
+  *Ich gehe ins Geschäft, um einzukaufen.*  
+  Translation: I'm going to the store to shop.
+
+- **die Bibliothek, -en** (n) - library  
+  *In der Bibliothek kann man viele Bücher ausleihen.*  
+  Translation: You can borrow many books from the library.
+
+- **geschlossen** (adj) - closed  
+  *Das Geschäft ist heute geschlossen.*  
+  Translation: The store is closed today.
+
+- **öffnen** (v) - to open  
+  *Kannst du bitte die Tür öffnen?*  
+  Translation: Can you please open the door?
+
+- **schließen** (v) - to close  
+  *Die Bibliothek schließt um 18 Uhr.*  
+  Translation: The library closes at 6 PM.
+
+- **die Praxis, Praxen** (n) - practice, doctor's office  
+  *Der Arzt ist noch in der Praxis.*  
+  Translation: The doctor is still in the office.
+
+- **der Tag, -e** (n) - day  
+  *Heute ist ein schöner Tag.*  
+  Translation: Today is a beautiful day.
+
+- **der Morgen, -** (n) - morning  
+  *Guten Morgen! Wie geht es dir heute Morgen?*  
+  Translation: Good morning! How are you this morning?
+
+- **jed-** (prefix) - every  
+  *Jeden Tag gehe ich joggen.*  
+  Translation: I go jogging every day.
+
+- **bringen** (v) - to bring  
+  *Kannst du mir bitte einen Kaffee bringen?*  
+  Translation: Can you please bring me a coffee?
+
+- **abholen** (v) - to pick up  
+  *Ich muss meine Kinder von der Schule abholen.*  
+  Translation: I have to pick up my children from school.
+
+- **mehr** (adv) - more  
+  *Ich möchte mehr Zeit für mich haben.*  
+  Translation: I want to have more time for myself.
+
+- **das Beispiel, -e** (n) - example  
+  *Kannst du mir ein Beispiel geben?*  
+  Translation: Can you give me an example?
+
+- **zum Beispiel** (prep phrase) - for example  
+  *Es gibt viele Sportarten, zum Beispiel Fußball und Tennis.*  
+  Translation: There are many sports, for example soccer and tennis.
+
+- **wieder** (adv) - again  
+  *Ich möchte das noch einmal machen.*  
+  Translation: I want to do that again.
+
+- **der Freund, -e** (n) - friend (male)  
+  *Mein bester Freund heißt Tom.*  
+  Translation: My best friend's name is Tom.
+
+- **fragen** (v) - to ask  
+  *Kann ich dich etwas fragen?*  
+  Translation: Can I ask you something?
+
+- **antworten** (v) - to answer, to reply  
+  *Er hat nicht auf meine Frage geantwortet.*  
+  Translation: He did not answer my question.
+
+- **total** (adj) - total, completely  
+  *Das war total schön gestern.*  
+  Translation: Yesterday was totally nice.
