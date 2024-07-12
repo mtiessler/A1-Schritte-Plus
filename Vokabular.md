@@ -1032,3 +1032,178 @@
 - **das Regal, -e** (n) - shelf  
   *Das Buch steht im Regal.*  
   Translation: The book is on the shelf.
+- **der Preis, -e** (n) - price  
+  *Wie hoch ist der Preis für diese Äpfel?*  
+  Translation: What is the price for these apples?
+
+- **der Cent, -s** (n) - cent  
+  *Das kostet 50 Cent.*  
+  Translation: That costs 50 cents.
+
+- **der Prospekt, -e** (n) - brochure  
+  *Im Prospekt gibt es viele Angebote.*  
+  Translation: There are many offers in the brochure.
+
+- **die Aktion, -en** (n) - sale, promotion  
+  *Diese Woche gibt es viele Aktionen im Supermarkt.*  
+  Translation: There are many promotions in the supermarket this week.
+
+- **das Lebensmittel, -** (n) - food item, groceries  
+  *Ich kaufe Lebensmittel für die Woche.*  
+  Translation: I am buying groceries for the week.
+
+- **wie viel** (adv) - how much  
+  *Wie viel kostet das?*  
+  Translation: How much does that cost?
+
+- **kosten** (v) - to cost  
+  *Wie viel kostet das Brot?*  
+  Translation: How much does the bread cost?
+
+- **das Kilo(gramm), -s** (n) - kilogram  
+  *Ich brauche ein Kilo Äpfel.*  
+  Translation: I need a kilogram of apples.
+
+- **das Gramm, -e** (n) - gram  
+  *100 Gramm Käse bitte.*  
+  Translation: 100 grams of cheese, please.
+
+- **das Deka** (n) - decagram (Austrian German)  
+  *Ich hätte gerne 20 Deka Schinken.*  
+  Translation: I would like 200 grams of ham.
+
+- **der Topfen (Sg.)** (n) - quark (Austrian German)  
+  *Topfen ist in vielen österreichischen Rezepten enthalten.*  
+  Translation: Quark is included in many Austrian recipes.
+
+- **der Liter, -** (n) - liter  
+  *Wir brauchen einen Liter Milch.*  
+  Translation: We need a liter of milk.
+
+- **die Flasche, -n** (n) - bottle  
+  *Eine Flasche Wasser, bitte.*  
+  Translation: A bottle of water, please.
+
+- **die Dose, -n** (n) - can  
+  *Eine Dose Tomaten kostet 1 Euro.*  
+  Translation: A can of tomatoes costs 1 euro.
+
+- **das Schlagobers (Sg.)** (n) - whipped cream (Austrian German)  
+  *Möchten Sie Schlagobers auf Ihrem Kuchen?*  
+  Translation: Would you like whipped cream on your cake?
+
+- **das Faschierte (Sg.)** (n) - minced meat (Austrian German)  
+  *Faschiertes ist eine Hauptzutat für Bolognese.*  
+  Translation: Minced meat is a main ingredient for Bolognese.
+
+- **der Verkäufer, -** (n) - salesman  
+  *Der Verkäufer ist sehr freundlich.*  
+  Translation: The salesman is very friendly.
+
+- **der Kunde, -n** (n) - customer  
+  *Der Kunde ist immer König.*  
+  Translation: The customer is always king.
+
+- **das Geschäft, -e** (n) - store  
+  *Das Geschäft hat bis 20 Uhr geöffnet.*  
+  Translation: The store is open until 8 PM.
+
+- **das Obst (Sg.)** (n) - fruit  
+  *Ich esse gerne frisches Obst.*  
+  Translation: I like to eat fresh fruit.
+
+- **das Gemüse (Sg.)** (n) - vegetables  
+  *Gemüse ist gesund.*  
+  Translation: Vegetables are healthy.
+
+- **die Bäckerei, -en** (n) - bakery  
+  *Die Bäckerei um die Ecke hat frisches Brot.*  
+  Translation: The bakery around the corner has fresh bread.
+
+- **die Wurst, ¨-e** (n) - sausage  
+  *Möchten Sie Wurst oder Käse?*  
+  Translation: Would you like sausage or cheese?
+
+- **das Rezept, -e** (n) - recipe  
+  *Hast du ein gutes Rezept für Apfelkuchen?*  
+  Translation: Do you have a good recipe for apple cake?
+
+- **das Wasser (Sg.)** (n) - water  
+  *Kann ich ein Glas Wasser haben?*  
+  Translation: Can I have a glass of water?
+
+- **der Pfeffer (Sg.)** (n) - pepper  
+  *Bitte reich mir den Pfeffer.*  
+  Translation: Please pass me the pepper.
+
+- **die Schokolade, -n** (n) - chocolate  
+  *Ich liebe dunkle Schokolade.*  
+  Translation: I love dark chocolate.
+
+- **die Butter (Sg.)** (n) - butter  
+  *Wir brauchen mehr Butter für das Rezept.*  
+  Translation: We need more butter for the recipe.
+
+- **das Ei, -er** (n) - egg  
+  *Ich möchte zwei Eier zum Frühstück.*  
+  Translation: I would like two eggs for breakfast.
+
+- **die Milch (Sg.)** (n) - milk  
+  *Kannst du bitte Milch mitbringen?*  
+  Translation: Can you please bring some milk?
+
+- **das Brot, -e** (n) - bread  
+  *Kannst du bitte Brot kaufen?*  
+  Translation: Can you please buy some bread?
+
+- **der Fisch, -e** (n) - fish  
+  *Frischer Fisch ist lecker.*  
+  Translation: Fresh fish is delicious.
+
+- **das Fleisch (Sg.)** (n) - meat  
+  *Ich esse kein Fleisch.*  
+  Translation: I don't eat meat.
+
+- **der Käse (Sg.)** (n) - cheese  
+  *Ich mag französischen Käse.*  
+  Translation: I like French cheese.
+
+- **der Apfel, ¨-** (n) - apple  
+  *Ein Apfel am Tag hält den Doktor fern.*  
+  Translation: An apple a day keeps the doctor away.
+
+- **die Birne, -n** (n) - pear  
+  *Die Birnen sind sehr süß dieses Jahr.*  
+  Translation: The pears are very sweet this year.
+
+- **die Semmel, -n** (n) - roll (Austrian German)  
+  *Zum Frühstück gibt es Semmeln.*  
+  Translation: There are rolls for breakfast.
+
+- **der Kuchen, -** (n) - cake  
+  *Der Kuchen schmeckt sehr gut.*  
+  Translation: The cake tastes very good.
+
+- **die Orange, -n** (n) - orange  
+  *Ich habe eine Orange zum Frühstück gegessen.*  
+  Translation: I ate an orange for breakfast.
+
+- **der Saft, ¨-e** (n) - juice  
+  *Orangensaft ist mein Lieblingssaft.*  
+  Translation: Orange juice is my favorite juice.
+
+- **das Joghurt, -s** (n) - yogurt  
+  *Ich esse Joghurt mit Obst.*  
+  Translation: I eat yogurt with fruit.
+
+- **die Zwiebel, -n** (n) - onion  
+  *Zwiebeln geben dem Essen mehr Geschmack.*  
+  Translation: Onions add more flavor to the food.
+
+- **die Tomate/Paradeiser, -n** (n) - tomato  
+  *Ich mag Tomatensalat.*  
+  Translation: I like tomato salad.
+
+- **das Mineralwasser (Sg.)** (n) - mineral water  
+  *Ich trinke gerne Mineralwasser.*  
+  Translation: I like to drink mineral water.
