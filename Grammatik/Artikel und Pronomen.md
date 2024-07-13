@@ -21,13 +21,21 @@ In German grammar, nouns, articles, and adjectives change their forms based on t
   - Sie hat **das Haus** gesehen. (She saw **the house**.)
   - Wir sehen **die Kinder**. (We see **the children**.)
 
-#### Summary table
-| Gender/Number       | Definite Article | Indefinite Article | Adjective Ending (Accusative) |
-|---------------------|------------------|--------------------|-------------------------------|
-| Masculine singular  | den              | einen              | -en                           |
-| Feminine singular   | die              | eine               | -e                            |
-| Neuter singular     | das              | ein                | -es or -e                     |
-| Plural              | die              | -                  | -en                           |
+#### Adjectives with article
+| Gender/Number        | Definite Article | Indefinite Article | Adjective Ending |
+|----------------------|------------------|--------------------|-------------------|
+| Masculine singular   | den              | einen              | -en               |
+| Feminine singular    | die              | eine               | -e                |
+| Neuter singular      | das              | ein                | -es or -e         |
+| Plural               | die              | -                  | -en               |
+
+#### Adjectives without articles
+| Gender/Number        | Adjective Ending |
+|----------------------|-------------------|
+| Masculine singular   | -en               |
+| Feminine singular    | -e                |
+| Neuter singular      | -es               |
+| Plural               | -e                |
 
 ### 3. Dativ
 
