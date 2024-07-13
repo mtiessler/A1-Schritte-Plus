@@ -14,11 +14,20 @@ In German grammar, nouns, articles, and adjectives change their forms based on t
 ### 2. Akkusativ
 
 - **Used for the direct object of a sentence.**
+
 - **Examples:**
   - Ich sehe **den Mann**. (I see **the man**.)
   - Er mag **die Frau**. (He likes **the woman**.)
   - Sie hat **das Haus** gesehen. (She saw **the house**.)
   - Wir sehen **die Kinder**. (We see **the children**.)
+
+#### Summary table
+| Gender/Number       | Definite Article | Indefinite Article | Adjective Ending (Accusative) |
+|---------------------|------------------|--------------------|-------------------------------|
+| Masculine singular  | den              | einen              | -en                           |
+| Feminine singular   | die              | eine               | -e                            |
+| Neuter singular     | das              | ein                | -es or -e                     |
+| Plural              | die              | -                  | -en                           |
 
 ### 3. Dativ
 
