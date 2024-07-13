@@ -54,7 +54,7 @@
 | **dasselbe, dieselbe, dasselbe** | dasselbe (the same)   | dieselbe (the same)         | dasselbe (the same)           | dieselben (the same) | dasselbe (the same)          | dieselbe (the same)        | dasselbe (the same)          | dieselben (the same) | demselben (the same)       | derselben (the same)    | demselben (the same)      | denselben (the same) | *Dasselbe Problem hatten wir gestern.*    |
 | **der, das, die**         | der (that)                 | die (that)                   | das (that)                   | die (those)      | den (that)                  | die (that)                  | das (that)                  | die (those)      | dem (that)                | der (that)             | dem (that)               | den (those)    | *Die Entscheidung, die er getroffen hat.*  |
 
-## Temporale Prepositions
+## Temporale Präpositionen
 #### Für + Akkusativ (For + Accusative)
 
 | **Singular**       | **Plural**           |
@@ -94,6 +94,92 @@
 
 **Explanation:**
 - **Seit** + Dative is used to indicate the starting point of an action or state that continues into the present. The noun following **seit** declines in the dative case according to its gender and number.
+
+## Lokale Präpositionen auf die Frage „Wo?“ (Where?)
+
+### **Mit Dativ (Dative)**
+
+| Präposition | Singular Beispiel       | Plural Beispiel         | Translation          |
+|-------------|-------------------------|-------------------------|----------------------|
+| an          | an der U-Bahn           | an den Kindern          | at, on               |
+| auf         | auf dem Kiosk           | auf den Häusern         | on, at (horizontal)  |
+| bei         | beim Arzt               | bei den Freunden        | at, by, with         |
+| hinter      | hinter dem Hotel        | hinter den Bäumen       | behind               |
+| in          | in der Apotheke         | in den Häusern          | in                   |
+| neben       | neben dem Kiosk         | neben den Hotels        | next to, beside      |
+| über        | über der Brücke         | über den Wolken         | over, above          |
+| unter       | unter dem Tisch         | unter den Bänken        | under, below         |
+| vor         | vor der Schule          | vor den Toren           | in front of, before  |
+
+#### **Erklärung (Explanation in English):**
+- **Wo?** asks for the location where something or someone is situated.
+- These prepositions are used to describe the location.
+
+---
+
+## Lokale Präpositionen auf die Frage „Wohin?“ (Where to?)
+
+### **Mit Akkusativ (Accusative)**
+
+| Präposition | Singular Beispiel       | Plural Beispiel         | Translation          |
+|-------------|-------------------------|-------------------------|----------------------|
+| an          | an die U-Bahn           | an die Kinder           | to, onto             |
+| auf         | auf den Kiosk           | auf die Häuser          | onto, on (vertical)  |
+| bei         | bei der Apotheke         | bei den Freunden        | at, by, with         |
+| hinter      | hinter das Hotel        | hinter die Bäume        | behind               |
+| in          | in die Apotheke         | in die Häuser           | into, in             |
+| neben       | neben den Kiosk         | neben die Hotels        | next to, beside      |
+| über        | über die Brücke         | über die Wolken         | over, above          |
+| unter       | unter den Tisch         | unter die Bänke         | under, below         |
+| vor         | vor die Schule          | vor die Tore            | in front of, before  |
+
+#### **Erklärung (Explanation in English):**
+- **Wohin?** asks for the destination or direction where something or someone is going.
+- These prepositions are used to describe the direction or destination.
+
+## Modale Präpositionen (Modal Prepositions)
+
+**Mit Dativ (Dative)**
+
+| Präposition | Beispiel                        | Translation  | Explanation                                        |
+|-------------|---------------------------------|--------------|----------------------------------------------------|
+| als         | als Hausmeister arbeiten         | as           | Used to indicate someone's role or job             |
+| bei         | bei TerraMax arbeiten            | at           | Used to indicate where someone works               |
+| in          | in der Apotheke arbeiten         | in           | Used to indicate the place of work                 |
+| nach        | nach Hause gehen                | to, towards  | Used to indicate direction towards a place         |
+| zu          | zum Arzt gehen                  | to           | Used to indicate movement towards a person or place|
+
+**Erklärung (Explanation in English):**
+- **Modal prepositions** are used to describe the manner, place, or circumstances in which an action or state occurs.
+- They often govern the dative case in German.
+- These prepositions change their meaning depending on the context and the verb they are used with.
+
+## Ordinalzahlen: Datum (Ordinal Numbers: Dates) - Lektion 14
+
+| Zahl         | Männlich              | Beispiel                     | Weiblich              | Beispiel                     |
+|--------------|-----------------------|------------------------------|-----------------------|------------------------------|
+| 1.           | der erste             | der erste April              | die erste              | die erste April              |
+| 2.           | der zweite            | der zweite Mai               | die zweite             | die zweite Mai               |
+| 3.           | der dritte            | der dritte Juni              | die dritte             | die dritte Juni              |
+| 4.           | der vierte            | der vierte Juli              | die vierte             | die vierte Juli              |
+| 5.           | der fünfte            | der fünfte August            | die fünfte             | die fünfte August            |
+| 6.           | der sechste           | der sechste September        | die sechste            | die sechste September        |
+| 7.           | der siebte            | der siebte Oktober           | die siebte             | die siebte Oktober           |
+| 8.           | der achte             | der achte November           | die achte              | die achte November           |
+| 9.           | der neunte            | der neunte Dezember          | die neunte             | die neunte Dezember          |
+| 10.          | der zehnte            | der zehnte Januar            | die zehnte             | die zehnte Januar            |
+| 11.          | der elfte             | der elfte Februar            | die elfte              | die elfte Februar            |
+| 12.          | der zwölfte           | der zwölfte März             | die zwölfte            | die zwölfte März             |
+| 13.          | der dreizehnte        | der dreizehnte April         | die dreizehnte         | die dreizehnte April         |
+| 14.          | der vierzehnte        | der vierzehnte Mai           | die vierzehnte         | die vierzehnte Mai           |
+| 15.          | der fünfzehnte        | der fünfzehnte Juni          | die fünfzehnte         | die fünfzehnte Juni          |
+| 16.          | der sechzehnte        | der sechzehnte Juli          | die sechzehnte         | die sechzehnte Juli          |
+| 17.          | der siebzehnte        | der siebzehnte August        | die siebzehnte         | die siebzehnte August        |
+| 18.          | der achtzehnte        | der achtzehnte September     | die achtzehnte         | die achtzehnte September     |
+| 19.          | der neunzehnte        | der neunzehnte Oktober       | die neunzehnte         | die neunzehnte Oktober       |
+| 20.          | der zwanzigste        | der zwanzigste November      | die zwanzigste         | die zwanzigste November      |
+| 21.          | der einundzwanzigste  | der einundzwanzigste Dezember| die einundzwanzigste   | die einundzwanzigste Dezember|
+
 
 
 ## Konjugation
