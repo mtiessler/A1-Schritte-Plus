@@ -31,6 +31,71 @@
 | **Alle Geschlechter** | Wo sind **keine** Bücher?            | Ich habe **keine** Bücher.               |
 
 
+
+## Possessiveartikel
+| Possessivartikel | Person / Deklination | Nominativ Singular          | Akkusativ Singular maskulin | Dativ Singular             | Nominativ Plural            | Akkusativ Plural            | Dativ Plural               | Beispiel                              |
+|------------------|----------------------|-----------------------------|-----------------------------|---------------------------|-----------------------------|-----------------------------|---------------------------|----------------------------------------|
+| **mein, meine**  | ich                  | **mein** Termin             | **meinen** Termin           | **meinem** Termin          | **meine** Ohren             | **meine** Ohren             | **meinen** Ohren          | *Mein Termin ist wichtig.*             |
+| **dein, deine**  | du                   | **dein** Termin             | **deinen** Termin           | **deinem** Termin          | **deine** Ohren             | **deine** Ohren             | **deinen** Ohren          | *Dein Termin gefällt mir.*             |
+| **sein, seine**  | er/es                | **sein** Termin             | **seinen** Termin           | **seinem** Termin          | **seine** Ohren             | **seine** Ohren             | **seinen** Ohren          | *Sein Termin ist jetzt.*               |
+| **ihr, ihre**    | sie (feminin)        | **ihr** Termin              | **ihren** Termin            | **ihrem** Termin           | **ihre** Ohren              | **ihre** Ohren              | **ihren** Ohren           | *Ihr Termin ist bekannt.*              |
+| **unser, unsere**| wir                  | **unser** Termin            | **unseren** Termin          | **unserem** Termin         | **unsere** Ohren            | **unsere** Ohren            | **unseren** Ohren         | *Unser Termin beginnt bald.*          |
+| **euer, eure**   | ihr                  | **euer** Termin             | **euren** Termin            | **eurem** Termin           | **eure** Ohren              | **eure** Ohren              | **euren** Ohren           | *Euer Termin ist bekannt.*             |
+| **ihr, ihre**    | sie (plural)         | **ihr** Termin              | **ihre** Termin             | **ihrem** Termin           | **ihre** Ohren              | **ihre** Ohren              | **ihren** Ohren           | *Ihre Termine sind interessant.*       |
+| **Ihr, Ihre**    | Sie (formal)         | **Ihr** Termin              | **Ihren** Termin            | **Ihrem** Termin           | **Ihre** Ohren              | **Ihre** Ohren              | **Ihren** Ohren           | *Ihr Termin steht bevor.*              |
+
+
+## Personalpronomen
+| Demonstrativpronomen     | Nominativ Singular maskulin | Nominativ Singular feminin | Nominativ Singular neutral | Nominativ Plural | Akkusativ Singular maskulin | Akkusativ Singular feminin | Akkusativ Singular neutral | Akkusativ Plural | Dativ Singular maskulin | Dativ Singular feminin | Dativ Singular neutral | Dativ Plural | Beispiel                                |
+|--------------------------|-----------------------------|----------------------------|-----------------------------|------------------|-----------------------------|----------------------------|-----------------------------|------------------|-------------------------|------------------------|-------------------------|--------------|------------------------------------------|
+| **dieser, diese, dieses** | dieser (this)              | diese (this)                | dieses (this)                | diese (these)    | diesen (this)               | diese (this)               | dieses (this)               | diese (these)    | diesem (this)             | dieser (this)          | diesem (this)            | diesen (these) | *Dieser Mann ist mein Bruder.*            |
+| **jener, jene, jenes**    | jener (that)               | jene (that)                 | jenes (that)                 | jene (those)     | jenen (that)                | jene (that)                | jenes (that)                | jene (those)     | jenem (that)              | jener (that)           | jenem (that)             | jenen (those)  | *Jener Film hat mir gut gefallen.*        |
+| **solcher, solche, solches** | solcher (such)           | solche (such)               | solches (such)               | solche (such)    | solchen (such)              | solche (such)              | solches (such)              | solche (such)    | solchem (such)            | solcher (such)         | solchem (such)           | solchen (such) | *Solche Bücher mag ich.*                  |
+| **dasselbe, dieselbe, dasselbe** | dasselbe (the same)   | dieselbe (the same)         | dasselbe (the same)           | dieselben (the same) | dasselbe (the same)          | dieselbe (the same)        | dasselbe (the same)          | dieselben (the same) | demselben (the same)       | derselben (the same)    | demselben (the same)      | denselben (the same) | *Dasselbe Problem hatten wir gestern.*    |
+| **der, das, die**         | der (that)                 | die (that)                   | das (that)                   | die (those)      | den (that)                  | die (that)                  | das (that)                  | die (those)      | dem (that)                | der (that)             | dem (that)               | den (those)    | *Die Entscheidung, die er getroffen hat.*  |
+
+## Temporale Prepositions
+#### Für + Akkusativ (For + Accusative)
+
+| **Singular**       | **Plural**           |
+|--------------------|----------------------|
+| für einen Tag      | für zwei Tage        |
+| für einen Monat    | für zwei Monate      |
+| für eine Woche     | für zwei Wochen      |
+| für ein Jahr       | für zwei Jahre       |
+
+**Explanation:**
+- **Für** + Accusative is used to indicate the duration of time something will last or continue. The noun following **für** declines in the accusative case according to its gender and number.
+
+---
+
+#### Vor + Dativ (Before + Dative)
+
+| **Singular**         | **Plural**           |
+|----------------------|----------------------|
+| vor einem Tag        | vor zwei Tagen       |
+| vor einem Monat      | vor zwei Monaten     |
+| vor einer Woche      | vor zwei Wochen      |
+| vor einem Jahr       | vor zwei Jahren      |
+
+**Explanation:**
+- **Vor** + Dative is used to indicate an action or event that occurred before a specific point in time. The noun following **vor** declines in the dative case according to its gender and number.
+
+---
+
+#### Seit + Dativ (Since + Dative)
+
+| **Singular**         | **Plural**           |
+|----------------------|----------------------|
+| seit einem Tag       | seit zwei Tagen      |
+| seit einem Monat     | seit zwei Monaten    |
+| seit einer Woche     | seit zwei Wochen     |
+| seit einem Jahr      | seit zwei Jahren     |
+
+**Explanation:**
+- **Seit** + Dative is used to indicate the starting point of an action or state that continues into the present. The noun following **seit** declines in the dative case according to its gender and number.
+
+
 ## Konjugation
 
 ### Leben (to live)
@@ -97,24 +162,68 @@
 | ihr           | räumt auf         | räumtet auf              | habt aufgeräumt             |
 | sie/Sie       | räumen auf        | räumten auf              | haben aufgeräumt            |
 
-## Possessiveartikel
-| Possessivartikel | Person / Deklination | Nominativ Singular          | Akkusativ Singular maskulin | Dativ Singular             | Nominativ Plural            | Akkusativ Plural            | Dativ Plural               | Beispiel                              |
-|------------------|----------------------|-----------------------------|-----------------------------|---------------------------|-----------------------------|-----------------------------|---------------------------|----------------------------------------|
-| **mein, meine**  | ich                  | **mein** Termin             | **meinen** Termin           | **meinem** Termin          | **meine** Ohren             | **meine** Ohren             | **meinen** Ohren          | *Mein Termin ist wichtig.*             |
-| **dein, deine**  | du                   | **dein** Termin             | **deinen** Termin           | **deinem** Termin          | **deine** Ohren             | **deine** Ohren             | **deinen** Ohren          | *Dein Termin gefällt mir.*             |
-| **sein, seine**  | er/es                | **sein** Termin             | **seinen** Termin           | **seinem** Termin          | **seine** Ohren             | **seine** Ohren             | **seinen** Ohren          | *Sein Termin ist jetzt.*               |
-| **ihr, ihre**    | sie (feminin)        | **ihr** Termin              | **ihren** Termin            | **ihrem** Termin           | **ihre** Ohren              | **ihre** Ohren              | **ihren** Ohren           | *Ihr Termin ist bekannt.*              |
-| **unser, unsere**| wir                  | **unser** Termin            | **unseren** Termin          | **unserem** Termin         | **unsere** Ohren            | **unsere** Ohren            | **unseren** Ohren         | *Unser Termin beginnt bald.*          |
-| **euer, eure**   | ihr                  | **euer** Termin             | **euren** Termin            | **eurem** Termin           | **eure** Ohren              | **eure** Ohren              | **euren** Ohren           | *Euer Termin ist bekannt.*             |
-| **ihr, ihre**    | sie (plural)         | **ihr** Termin              | **ihre** Termin             | **ihrem** Termin           | **ihre** Ohren              | **ihre** Ohren              | **ihren** Ohren           | *Ihre Termine sind interessant.*       |
-| **Ihr, Ihre**    | Sie (formal)         | **Ihr** Termin              | **Ihren** Termin            | **Ihrem** Termin           | **Ihre** Ohren              | **Ihre** Ohren              | **Ihren** Ohren           | *Ihr Termin steht bevor.*              |
+### Helfen / Mögen / Werden
+| Pronoun   | Helfen (to help) | Mögen (to like) | Werden (to become) |
+|-----------|-------------------|-----------------|--------------------|
+| ich       | helfe             | mag             | werde              |
+| du        | hilfst            | magst           | wirst              |
+| er/es/sie | hilft             | mag             | wird               |
+| wir       | helfen            | mögen           | werden             |
+| ihr       | helft             | mögt            | werdet             |
+| sie/Sie   | helfen            | mögen           | werden             |
 
+### Sein
+|           | Präsens | Präteritum |
+|-----------|---------|------------|
+| **sein**  |         |            |
+| ich       | bin     | war        |
+| du        | bist    | warst      |
+| er/es/sie | ist     | war        |
+| wir       | sind    | waren      |
+| ihr       | seid    | wart       |
+| sie/Sie   | sind    | waren      |
 
-## Personalpronomen
-| Demonstrativpronomen     | Nominativ Singular maskulin | Nominativ Singular feminin | Nominativ Singular neutral | Nominativ Plural | Akkusativ Singular maskulin | Akkusativ Singular feminin | Akkusativ Singular neutral | Akkusativ Plural | Dativ Singular maskulin | Dativ Singular feminin | Dativ Singular neutral | Dativ Plural | Beispiel                                |
-|--------------------------|-----------------------------|----------------------------|-----------------------------|------------------|-----------------------------|----------------------------|-----------------------------|------------------|-------------------------|------------------------|-------------------------|--------------|------------------------------------------|
-| **dieser, diese, dieses** | dieser (this)              | diese (this)                | dieses (this)                | diese (these)    | diesen (this)               | diese (this)               | dieses (this)               | diese (these)    | diesem (this)             | dieser (this)          | diesem (this)            | diesen (these) | *Dieser Mann ist mein Bruder.*            |
-| **jener, jene, jenes**    | jener (that)               | jene (that)                 | jenes (that)                 | jene (those)     | jenen (that)                | jene (that)                | jenes (that)                | jene (those)     | jenem (that)              | jener (that)           | jenem (that)             | jenen (those)  | *Jener Film hat mir gut gefallen.*        |
-| **solcher, solche, solches** | solcher (such)           | solche (such)               | solches (such)               | solche (such)    | solchen (such)              | solche (such)              | solches (such)              | solche (such)    | solchem (such)            | solcher (such)         | solchem (such)           | solchen (such) | *Solche Bücher mag ich.*                  |
-| **dasselbe, dieselbe, dasselbe** | dasselbe (the same)   | dieselbe (the same)         | dasselbe (the same)           | dieselben (the same) | dasselbe (the same)          | dieselbe (the same)        | dasselbe (the same)          | dieselben (the same) | demselben (the same)       | derselben (the same)    | demselben (the same)      | denselben (the same) | *Dasselbe Problem hatten wir gestern.*    |
-| **der, das, die**         | der (that)                 | die (that)                   | das (that)                   | die (those)      | den (that)                  | die (that)                  | das (that)                  | die (those)      | dem (that)                | der (that)             | dem (that)               | den (those)    | *Die Entscheidung, die er getroffen hat.*  |
+### Haben
+
+|           | Präsens | Präteritum |
+|-----------|---------|------------|
+| **haben** |         |            |
+| ich       | habe    | hatte      |
+| du        | hast    | hattest    |
+| er/es/sie | hat     | hatte      |
+| wir       | haben   | hatten     |
+| ihr       | habt    | hattet     |
+| sie/Sie   | haben   | hatten     |
+
+### Müssen (Must)
+|            | Präsens (Present) | Übersetzung (Translation) |
+|------------|--------------------|---------------------------|
+| **müssen** |                    |                           |
+| ich        | muss               | must                      |
+| du         | musst              | must                      |
+| er/es/sie  | muss               | must                      |
+| wir        | müssen             | must                      |
+| ihr        | müsst              | must                      |
+| sie/Sie    | müssen             | must                      |
+
+### Dürfen (May)
+|           | Präsens (Present) | Übersetzung (Translation) |
+|-----------|--------------------|---------------------------|
+| **dürfen**|                    |                           |
+| ich       | darf               | may, am allowed to         |
+| du        | darfst             | may, are allowed to       |
+| er/es/sie | darf               | may, is allowed to        |
+| wir       | dürfen             | may, are allowed to       |
+| ihr       | dürft              | may, are allowed to       |
+| sie/Sie   | dürfen             | may, are allowed to       |
+
+### Sollen (Should)
+|           | Präsens (Present) | Übersetzung (Translation) |
+|-----------|--------------------|---------------------------|
+| **sollen**|                    |                           |
+| ich       | soll               | should, shall              |
+| du        | sollst             | should, shall              |
+| er/es/sie | soll               | should, shall              |
+| wir       | sollen             | should, shall              |
+| ihr       | sollt              | should, shall              |
+| sie/Sie   | sollen             | should, shall              |
