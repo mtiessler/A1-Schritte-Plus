@@ -73,79 +73,103 @@
 | ihr           | räumt auf         | räumtet auf              | habt aufgeräumt             |
 | sie/Sie       | räumen auf        | räumten auf              | haben aufgeräumt            |
 
-### Helfen / Mögen / Werden
-| Pronoun   | Helfen (to help) | Mögen (to like) | Werden (to become) |
-|-----------|-------------------|-----------------|--------------------|
-| ich       | helfe             | mag             | werde              |
-| du        | hilfst            | magst           | wirst              |
-| er/es/sie | hilft             | mag             | wird               |
-| wir       | helfen            | mögen           | werden             |
-| ihr       | helft             | mögt            | werdet             |
-| sie/Sie   | helfen            | mögen           | werden             |
+### Verbs: Helfen (to help)
 
-### Sein
-|           | Präsens | Präteritum |
-|-----------|---------|------------|
-| **sein**  |         |            |
-| ich       | bin     | war        |
-| du        | bist    | warst      |
-| er/es/sie | ist     | war        |
-| wir       | sind    | waren      |
-| ihr       | seid    | wart       |
-| sie/Sie   | sind    | waren      |
+| Pronomen   | Präsens   | Präteritum | Perfekt         |
+|------------|-----------|------------|-----------------|
+| ich        | helfe     | half       | habe geholfen   |
+| du         | hilfst    | halfst     | hast geholfen   |
+| er/es/sie  | hilft     | half       | hat geholfen    |
+| wir        | helfen    | halfen     | haben geholfen  |
+| ihr        | helft     | hattet     | habt geholfen   |
+| sie/Sie    | helfen    | halfen     | haben geholfen  |
 
-### Haben
 
-|           | Präsens | Präteritum |
-|-----------|---------|------------|
-| **haben** |         |            |
-| ich       | habe    | hatte      |
-| du        | hast    | hattest    |
-| er/es/sie | hat     | hatte      |
-| wir       | haben   | hatten     |
-| ihr       | habt    | hattet     |
-| sie/Sie   | haben   | hatten     |
+### Verbs: Mögen (to like)
 
-### Müssen (Must)
-|            | Präsens (Present) | Übersetzung (Translation) |
-|------------|--------------------|---------------------------|
-| **müssen** |                    |                           |
-| ich        | muss               | must                      |
-| du         | musst              | must                      |
-| er/es/sie  | muss               | must                      |
-| wir        | müssen             | must                      |
-| ihr        | müsst              | must                      |
-| sie/Sie    | müssen             | must                      |
+| Pronomen   | Präsens   | Präteritum | Perfekt        |
+|------------|-----------|------------|----------------|
+| ich        | mag       | mochte     | habe gemocht   |
+| du         | magst     | mochtest   | hast gemocht   |
+| er/es/sie  | mag       | mochte     | hat gemocht    |
+| wir        | mögen     | mochten    | haben gemocht  |
+| ihr        | mögt      | mochtet    | habt gemocht   |
+| sie/Sie    | mögen     | mochten    | haben gemocht  |
 
-### Dürfen (May)
-|           | Präsens (Present) | Übersetzung (Translation) |
-|-----------|--------------------|---------------------------|
-| **dürfen**|                    |                           |
-| ich       | darf               | may, am allowed to         |
-| du        | darfst             | may, are allowed to       |
-| er/es/sie | darf               | may, is allowed to        |
-| wir       | dürfen             | may, are allowed to       |
-| ihr       | dürft              | may, are allowed to       |
-| sie/Sie   | dürfen             | may, are allowed to       |
 
-### Sollen (Should)
-|           | Präsens (Present) | Übersetzung (Translation) |
-|-----------|--------------------|---------------------------|
-| **sollen**|                    |                           |
-| ich       | soll               | should, shall              |
-| du        | sollst             | should, shall              |
-| er/es/sie | soll               | should, shall              |
-| wir       | sollen             | should, shall              |
-| ihr       | sollt              | should, shall              |
-| sie/Sie   | sollen             | should, shall              |
+### Verbs: Werden (to become)
 
-### wollen (to want)
+| Pronomen   | Präsens   | Präteritum | Perfekt         |
+|------------|-----------|------------|-----------------|
+| ich        | werde     | wurde      | bin geworden    |
+| du         | wirst     | wurdest    | bist geworden   |
+| er/es/sie  | wird      | wurde      | ist geworden    |
+| wir        | werden    | wurden     | sind geworden   |
+| ihr        | werdet    | wurdet     | seid geworden   |
+| sie/Sie    | werden    | wurden     | sind geworden   |
 
-| Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
-|---------------|-------------------|--------------------------|-----------------------------|
-| ich           | will              | wollte                   | habe gewollt                |
-| du            | willst            | wolltest                 | hast gewollt                |
-| er/sie/es     | will              | wollte                   | hat gewollt                 |
-| wir           | wollen            | wollten                  | haben gewollt               |
-| ihr           | wollt             | wolltet                  | habt gewollt                |
-| sie/Sie       | wollen            | wollten                  | haben gewollt               |
+### Sein (to be)
+
+|           | Präsens   | Präteritum | Perfekt (Present Perfect) |
+|-----------|-----------|------------|---------------------------|
+| ich       | bin       | war        | bin gewesen               |
+| du        | bist      | warst      | bist gewesen              |
+| er/sie/es | ist       | war        | ist gewesen               |
+| wir       | sind      | waren      | sind gewesen              |
+| ihr       | seid      | wart       | seid gewesen              |
+| sie/Sie   | sind      | waren      | sind gewesen              |
+
+### Haben (to have)
+
+|           | Präsens   | Präteritum | Perfekt (Present Perfect) |
+|-----------|-----------|------------|---------------------------|
+| ich       | habe      | hatte      | habe gehabt               |
+| du        | hast      | hattest    | hast gehabt               |
+| er/sie/es | hat       | hatte      | hat gehabt                |
+| wir       | haben     | hatten     | haben gehabt              |
+| ihr       | habt      | hattet     | habt gehabt               |
+| sie/Sie   | haben     | hatten     | haben gehabt              |
+
+### Müssen (must)
+
+|           | Präsens   | Präteritum | Perfekt (Present Perfect) |
+|-----------|-----------|------------|---------------------------|
+| ich       | muss      | musste     | habe gemusst              |
+| du        | musst     | musstest   | hast gemusst              |
+| er/sie/es | muss      | musste     | hat gemusst               |
+| wir       | müssen    | mussten    | haben gemusst             |
+| ihr       | müsst     | musstet    | habt gemusst              |
+| sie/Sie   | müssen    | mussten    | haben gemusst             |
+
+### Dürfen (may, allowed to)
+
+|           | Präsens   | Präteritum | Perfekt (Present Perfect) |
+|-----------|-----------|------------|---------------------------|
+| ich       | darf      | durfte     | habe gedurft              |
+| du        | darfst    | durftest   | hast gedurft              |
+| er/sie/es | darf      | durfte     | hat gedurft               |
+| wir       | dürfen    | durften    | haben gedurft             |
+| ihr       | dürft     | durftet    | habt gedurft              |
+| sie/Sie   | dürfen    | durften    | haben gedurft             |
+
+### Sollen (should, shall)
+
+|           | Präsens   | Präteritum | Perfekt (Present Perfect) |
+|-----------|-----------|------------|---------------------------|
+| ich       | soll      | sollte     | habe gesollt               |
+| du        | sollst    | solltest   | hast gesollt               |
+| er/sie/es | soll      | sollte     | hat gesollt                |
+| wir       | sollen    | sollten    | haben gesollt              |
+| ihr       | sollt     | solltet    | habt gesollt               |
+| sie/Sie   | sollen    | sollten    | haben gesollt              |
+
+### Wollen (to want)
+
+|           | Präsens   | Präteritum | Perfekt (Present Perfect) |
+|-----------|-----------|------------|---------------------------|
+| ich       | will      | wollte     | habe gewollt               |
+| du        | willst    | wolltest   | hast gewollt               |
+| er/sie/es | will      | wollte     | hat gewollt                |
+| wir       | wollen    | wollten    | haben gewollt              |
+| ihr       | wollt     | wolltet    | habt gewollt               |
+| sie/Sie   | wollen    | wollten    | haben gewollt              |
