@@ -321,3 +321,23 @@
 - **das Mineralwasser (Sg.)** (n) - mineral water  
   *Ich trinke gerne Mineralwasser.*  
   Translation: I like to drink mineral water.
+
+- **der Kopfsalat, -e** (m) - lettuce  
+  *Ich kaufe einen Kopfsalat für den Salat.*  
+  Translation: I am buying a lettuce for the salad.
+
+- **die Gurke, -n** (f) - cucumber  
+  *Die Gurken sind im Sonderangebot.*  
+  Translation: The cucumbers are on special offer.
+
+- **das Sonderangebot, -e** (n) - special offer  
+  *Im Supermarkt gibt es viele Sonderangebote.*  
+  Translation: There are many special offers in the supermarket.
+
+- **das Treffen, -** (n) - meeting  
+  *Wir haben ein Treffen um 15 Uhr.*  
+  Translation: We have a meeting at 3 PM.
+
+- **nehmen (hat genommen)** (v) - to take  
+  *Ich nehme einen Apfel.*  
+  Translation: I am taking an apple.
