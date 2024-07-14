@@ -215,3 +215,20 @@
   *Was ist deine Antwort?*  
   Translation: What is your answer?
 
+  - **besonders** (adv) - especially
+  *Das Konzert war besonders gut.*
+  Translation: The concert was especially good.
+
+- **nett** (adj) - nice, kind
+  *Er ist ein sehr netter Mensch.*
+  Translation: He is a very nice person.
+
+- **Mein Vater ist Zahnarzt von Beruf.** - My father is a dentist by profession.
+  *Mein Vater ist Zahnarzt von Beruf und hat eine eigene Praxis.*
+  Translation: My father is a dentist by profession and has his own practice.
+
+- **werden** (v) - to become, will (future tense)
+  *Ich werde morgen ins Kino gehen.*
+  Translation: I will go to the cinema tomorrow.
+
+
