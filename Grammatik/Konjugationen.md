@@ -29,6 +29,17 @@
 | ihr           | arbeitet          | arbeitetet               | habt gearbeitet             |
 | sie/Sie       | arbeiten          | arbeiteten               | haben gearbeitet            |
 
+### stehen (to stand)
+
+| Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
+|---------------|-------------------|--------------------------|-----------------------------|
+| ich           | stehe             | stand                    | habe gestanden              |
+| du            | stehst            | standest                 | hast gestanden              |
+| er/sie/es     | steht             | stand                    | hat gestanden               |
+| wir           | stehen            | standen                  | haben gestanden             |
+| ihr           | steht             | standet                  | habt gestanden              |
+| sie/Sie       | stehen            | standen                  | haben gestanden             |
+
 
 ### aufstehen (to get up)
 
@@ -127,3 +138,14 @@
 | wir       | sollen             | should, shall              |
 | ihr       | sollt              | should, shall              |
 | sie/Sie   | sollen             | should, shall              |
+
+### wollen (to want)
+
+| Person        | Präsens (Present) | Präteritum (Simple Past) | Perfekt (Present Perfect)   |
+|---------------|-------------------|--------------------------|-----------------------------|
+| ich           | will              | wollte                   | habe gewollt                |
+| du            | willst            | wolltest                 | hast gewollt                |
+| er/sie/es     | will              | wollte                   | hat gewollt                 |
+| wir           | wollen            | wollten                  | haben gewollt               |
+| ihr           | wollt             | wolltet                  | habt gewollt                |
+| sie/Sie       | wollen            | wollten                  | haben gewollt               |
