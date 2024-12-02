@@ -1,6 +1,6 @@
 # A1-Schritte-Plus Notes
 
-This Repository has all the important information for anyone that wants to pursue A1 German level
+This Repository has all the important information for anyone that wants to pursue A1 German level. Discontinued
 
 ## Table of Contents
 - [Grammatik](#grammatik)
